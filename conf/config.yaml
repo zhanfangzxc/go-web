@@ -1,0 +1,32 @@
+runmode: debug                    #开发模式: debug、release、test
+addr: :8080                       #端口号
+name: apiserver     
+url: http://127.0.0.1:8080
+max_ping_count: 10
+jwt_secret: Rtg8BPKNEf2mB4mgvKONGPZZQSaJWNLijxR42qRgq0iBb5
+tls:
+  addr: :8081
+  cert: conf/server.crt
+  key: conf/server.key
+log:
+    writers: file,stdout
+    logger_level: DEBUG
+    logger_file: log/apiserver.log
+    log_format_text: false
+    # daily: 根据天进行转存
+    # size: 根据大小进行转存
+    rollingPolicy: size 
+    log_rotate_date: 1
+    log_rotate_size: 1024
+    log_backup_count: 7
+    gormlog: true 
+db: 
+  name: api_server
+  addr: 127.0.0.1:3306
+  username: root
+  password: zhaoshanshan0518
+docker_db:
+  name: api_server
+  addr: 127.0.0.1:3306
+  username: root
+  password: zhaoshanshan0518

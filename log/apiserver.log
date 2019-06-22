@@ -1,0 +1,428 @@
+{"level":"INFO","timestamp":"2019-06-17 12:00:13.680","file":"web/main.go:42","msg":"Start to listening the incoming request on http address: :7777"}
+{"level":"INFO","timestamp":"2019-06-17 12:00:13.681","file":"web/main.go:40","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-06-17 12:02:30.527","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:30.631","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:30.731","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:30.835","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:30.939","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:31.041","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:31.145","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:31.248","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:31.351","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:31.454","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:31.555","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:31.655","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:31.759","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:31.863","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:31.964","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:32.064","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:32.169","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:32.271","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:32.371","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:32.472","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:32.572","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:32.677","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:32.781","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:32.882","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:32.987","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:33.089","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:33.192","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:33.295","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:33.396","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:33.501","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:33.603","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:33.703","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:33.803","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:33.905","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:34.009","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:34.110","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:34.214","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:34.319","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:34.419","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:34.522","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:34.625","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:34.728","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:34.833","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:34.937","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:35.039","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:35.139","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:35.243","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:35.345","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:35.448","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:35.551","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:35.655","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:35.760","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:35.864","file":"web/main.go:28","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 12:02:35.969","file":"web/main.go:28","msg":"============================================================"}
+{"level":"ERROR","timestamp":"2019-06-17 15:33:10.687","file":"model/model.go:30","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"this authentication plugin is not supported"}}
+{"level":"ERROR","timestamp":"2019-06-17 15:33:10.688","file":"model/model.go:30","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"this authentication plugin is not supported"}}
+{"level":"INFO","timestamp":"2019-06-17 15:33:10.688","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:10.791","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:10.892","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:10.997","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:11.098","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:11.199","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:11.300","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:11.404","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:11.506","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:11.607","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:11.708","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:11.808","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:11.912","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:12.014","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:12.117","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:12.219","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:12.323","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:12.428","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:12.532","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:12.636","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:12.740","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:12.841","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:12.942","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:13.043","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:13.143","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:13.246","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:13.347","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:13.448","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:13.551","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:13.653","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:13.756","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:13.857","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:13.958","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:14.058","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:14.159","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:14.261","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:14.363","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:14.464","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:14.565","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:14.667","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:14.768","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:14.869","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:14.973","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:15.076","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:15.176","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:15.277","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:15.381","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:15.482","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:15.582","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:15.687","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:15.787","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:15.890","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:15.990","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:16.090","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:16.195","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:16.295","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:16.398","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:16.503","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:16.603","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:16.706","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:16.806","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:16.910","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:17.014","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:17.117","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:17.219","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:17.323","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:17.424","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:17.529","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:17.629","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:17.734","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:17.835","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:17.940","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:18.040","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:18.140","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:18.242","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:18.346","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:18.449","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:18.550","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:18.650","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:18.752","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:18.856","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:18.957","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:19.057","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:19.162","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:19.265","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:19.367","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:19.468","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:19.569","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:19.673","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:19.774","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:19.876","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:19.976","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:20.081","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:20.186","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:20.289","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:20.389","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:20.489","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:20.591","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:20.694","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:20.798","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:20.902","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:21.002","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:21.102","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:21.206","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:21.306","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:21.409","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:21.510","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:21.612","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:21.717","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:21.821","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:21.922","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:22.026","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:22.127","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:22.229","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:22.334","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:22.438","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:22.541","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:22.646","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:22.749","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:22.854","file":"web/main.go:33","msg":"============================================================"}
+{"level":"ERROR","timestamp":"2019-06-17 15:33:30.204","file":"model/model.go:30","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"this authentication plugin is not supported"}}
+{"level":"ERROR","timestamp":"2019-06-17 15:33:30.205","file":"model/model.go:30","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"this authentication plugin is not supported"}}
+{"level":"INFO","timestamp":"2019-06-17 15:33:30.205","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:30.305","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:30.411","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:30.514","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:30.619","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:30.722","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:30.823","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:30.926","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:31.026","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:31.128","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:31.233","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:31.336","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:31.439","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:31.541","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:31.645","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:31.750","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:31.855","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:31.956","file":"web/main.go:33","msg":"============================================================"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:32.057","file":"web/main.go:33","msg":"============================================================"}
+{"level":"ERROR","timestamp":"2019-06-17 15:33:42.925","file":"model/model.go:30","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"this authentication plugin is not supported"}}
+{"level":"ERROR","timestamp":"2019-06-17 15:33:42.926","file":"model/model.go:30","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"this authentication plugin is not supported"}}
+{"level":"INFO","timestamp":"2019-06-17 15:33:42.926","file":"web/main.go:52","msg":"Start to listening the incoming request on http address: :7777"}
+{"level":"INFO","timestamp":"2019-06-17 15:33:42.927","file":"web/main.go:50","msg":"The router has been deployed successfully."}
+{"level":"ERROR","timestamp":"2019-06-17 19:45:24.417","file":"model/model.go:30","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"this authentication plugin is not supported"}}
+{"level":"ERROR","timestamp":"2019-06-17 19:45:24.420","file":"model/model.go:30","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"this authentication plugin is not supported"}}
+{"level":"INFO","timestamp":"2019-06-17 19:45:24.420","file":"web/main.go:52","msg":"Start to listening the incoming request on http address: :7777"}
+{"level":"INFO","timestamp":"2019-06-17 19:45:24.421","file":"web/main.go:50","msg":"The router has been deployed successfully."}
+{"level":"DEBUG","timestamp":"2019-06-17 19:45:56.601","file":"user/create.go:25","msg":"username is :[admin], password is []"}
+{"level":"DEBUG","timestamp":"2019-06-17 19:46:30.990","file":"user/create.go:25","msg":"username is :[], password is [admin]"}
+{"level":"ERROR","timestamp":"2019-06-17 19:46:30.990","file":"user/create.go:28","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message。, error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2019-06-17 19:46:30.990","file":"user/create.go:32","msg":"err type is ErrUserNotFound"}
+{"level":"ERROR","timestamp":"2019-06-20 19:37:30.393","file":"model/model.go:30","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"this authentication plugin is not supported"}}
+{"level":"ERROR","timestamp":"2019-06-20 19:37:30.404","file":"model/model.go:30","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"this authentication plugin is not supported"}}
+{"level":"INFO","timestamp":"2019-06-20 19:37:30.404","file":"web/main.go:52","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-20 19:37:30.405","file":"web/main.go:50","msg":"The router has been deployed successfully."}
+{"level":"ERROR","timestamp":"2019-06-21 10:02:54.518","file":"model/model.go:30","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"this authentication plugin is not supported"}}
+{"level":"ERROR","timestamp":"2019-06-21 10:02:54.520","file":"model/model.go:30","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"this authentication plugin is not supported"}}
+{"level":"INFO","timestamp":"2019-06-21 10:02:54.520","file":"web/main.go:52","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-21 10:02:54.523","file":"web/main.go:50","msg":"The router has been deployed successfully."}
+{"level":"ERROR","timestamp":"2019-06-21 10:33:44.616","file":"model/model.go:30","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"this authentication plugin is not supported"}}
+{"level":"ERROR","timestamp":"2019-06-21 10:33:44.618","file":"model/model.go:30","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"this authentication plugin is not supported"}}
+{"level":"INFO","timestamp":"2019-06-21 10:33:44.619","file":"web/main.go:52","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-21 10:33:44.619","file":"web/main.go:62","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 10:33:45.628","file":"web/main.go:50","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-06-21 10:33:51.426","file":"user/create.go:26","msg":"URL username: admin2"}
+{"level":"INFO","timestamp":"2019-06-21 10:33:51.426","file":"user/create.go:29","msg":"URL key param desc: test"}
+{"level":"INFO","timestamp":"2019-06-21 10:33:51.426","file":"user/create.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2019-06-21 10:33:51.426","file":"user/create.go:34","msg":"username is: [admin], password is [admin]"}
+{"level":"ERROR","timestamp":"2019-06-21 15:44:57.767","file":"model/init.go:30","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"this authentication plugin is not supported"}}
+{"level":"ERROR","timestamp":"2019-06-21 15:44:57.770","file":"model/init.go:30","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"this authentication plugin is not supported"}}
+{"level":"INFO","timestamp":"2019-06-21 15:44:57.770","file":"web/main.go:52","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-21 15:44:57.771","file":"web/main.go:50","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-06-21 15:45:03.502","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2019-06-21 15:45:49.146","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-21 15:45:52.938","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-21 15:45:53.309","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-21 15:45:57.843","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2019-06-21 15:46:24.867","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-21 15:46:27.446","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-21 15:46:31.156","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"ERROR","timestamp":"2019-06-21 15:46:38.884","file":"model/init.go:30","msg":"Database connection failed. Database name: api_server","data":{"error":"this authentication plugin is not supported"}}
+{"level":"ERROR","timestamp":"2019-06-21 15:46:38.886","file":"model/init.go:30","msg":"Database connection failed. Database name: api_server","data":{"error":"this authentication plugin is not supported"}}
+{"level":"INFO","timestamp":"2019-06-21 15:46:38.886","file":"web/main.go:52","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-21 15:46:38.887","file":"web/main.go:50","msg":"The router has been deployed successfully."}
+{"level":"ERROR","timestamp":"2019-06-21 15:46:52.253","file":"model/init.go:30","msg":"Database connection failed. Database name: api_server","data":{"error":"this authentication plugin is not supported"}}
+{"level":"ERROR","timestamp":"2019-06-21 15:46:52.253","file":"model/init.go:30","msg":"Database connection failed. Database name: api_server","data":{"error":"this authentication plugin is not supported"}}
+{"level":"INFO","timestamp":"2019-06-21 15:46:52.258","file":"web/main.go:52","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-21 15:46:52.260","file":"web/main.go:50","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-06-21 15:46:55.185","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2019-06-21 15:50:38.471","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-21 15:50:41.385","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-21 15:50:44.471","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2019-06-21 15:51:01.344","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-21 15:51:02.898","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-21 15:51:03.081","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-21 15:51:06.995","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2019-06-21 15:52:40.597","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-21 15:52:40.635","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-21 15:52:45.204","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2019-06-21 15:55:59.382","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-21 15:56:01.868","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-21 15:56:05.515","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"ERROR","timestamp":"2019-06-21 15:56:29.898","file":"model/init.go:30","msg":"Database connection failed. Database name: api_server","data":{"error":"this authentication plugin is not supported"}}
+{"level":"ERROR","timestamp":"2019-06-21 15:56:29.899","file":"model/init.go:30","msg":"Database connection failed. Database name: api_server","data":{"error":"this authentication plugin is not supported"}}
+{"level":"INFO","timestamp":"2019-06-21 15:56:29.899","file":"web/main.go:52","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-21 15:56:29.899","file":"web/main.go:50","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-06-21 15:56:33.827","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2019-06-21 15:56:43.411","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-21 15:56:47.340","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-21 15:56:50.312","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"ERROR","timestamp":"2019-06-21 15:57:00.450","file":"model/init.go:30","msg":"Database connection failed. Database name: api_server","data":{"error":"this authentication plugin is not supported"}}
+{"level":"ERROR","timestamp":"2019-06-21 15:57:00.451","file":"model/init.go:30","msg":"Database connection failed. Database name: api_server","data":{"error":"this authentication plugin is not supported"}}
+{"level":"INFO","timestamp":"2019-06-21 15:57:00.451","file":"web/main.go:52","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-21 15:57:00.453","file":"web/main.go:50","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-06-21 15:57:03.364","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"ERROR","timestamp":"2019-06-21 16:00:26.068","file":"model/init.go:30","msg":"Database connection failed. Database name: api_server","data":{"error":"this authentication plugin is not supported"}}
+{"level":"ERROR","timestamp":"2019-06-21 16:00:26.071","file":"model/init.go:30","msg":"Database connection failed. Database name: api_server","data":{"error":"this authentication plugin is not supported"}}
+{"level":"INFO","timestamp":"2019-06-21 16:00:26.071","file":"web/main.go:52","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-21 16:00:26.072","file":"web/main.go:50","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-06-21 16:00:36.819","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"ERROR","timestamp":"2019-06-21 16:00:36.820","file":"model/init.go:31","msg":"Database connection failed. Database name: api_server","data":{"error":"this authentication plugin is not supported"}}
+{"level":"INFO","timestamp":"2019-06-21 16:00:36.820","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"ERROR","timestamp":"2019-06-21 16:00:36.821","file":"model/init.go:31","msg":"Database connection failed. Database name: api_server","data":{"error":"this authentication plugin is not supported"}}
+{"level":"INFO","timestamp":"2019-06-21 16:00:36.821","file":"web/main.go:52","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-21 16:00:36.823","file":"web/main.go:50","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-06-21 16:00:52.019","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2019-06-21 16:15:06.003","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-21 16:15:06.006","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-21 16:15:06.007","file":"web/main.go:52","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-21 16:15:06.008","file":"web/main.go:50","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-06-21 16:15:11.363","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2019-06-21 16:19:38.273","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2019-06-21 16:22:06.960","file":"user/update.go:16","msg":"update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2019-06-21 16:22:11.741","file":"user/update.go:16","msg":"update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2019-06-21 16:22:45.035","file":"user/update.go:16","msg":"update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2019-06-21 16:23:21.460","file":"user/update.go:16","msg":"update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2019-06-21 16:24:32.812","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-21 16:24:32.814","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-21 16:24:32.816","file":"web/main.go:52","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-21 16:24:32.817","file":"web/main.go:50","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-06-21 16:24:36.859","file":"user/update.go:16","msg":"update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2019-06-21 16:24:36.860","file":"user/update.go:20","msg":"更新的用户id是:4"}
+{"level":"INFO","timestamp":"2019-06-21 16:27:07.066","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-21 16:27:07.068","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-21 16:27:07.069","file":"web/main.go:52","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-21 16:27:07.070","file":"web/main.go:50","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-06-21 16:27:10.694","file":"user/update.go:16","msg":"update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2019-06-21 16:27:10.694","file":"user/update.go:20","msg":"更新的用户id是:4"}
+{"level":"INFO","timestamp":"2019-06-21 16:29:40.683","file":"user/update.go:16","msg":"update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2019-06-21 16:29:40.683","file":"user/update.go:20","msg":"更新的用户id是:3"}
+{"level":"INFO","timestamp":"2019-06-21 16:30:01.489","file":"user/update.go:16","msg":"update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2019-06-21 16:30:01.489","file":"user/update.go:20","msg":"更新的用户id是:2"}
+{"level":"INFO","timestamp":"2019-06-21 17:03:26.535","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-21 17:03:26.537","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-21 17:03:26.549","file":"web/main.go:54","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-21 17:03:26.552","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:03:27.557","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:03:28.560","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:03:29.565","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:03:30.569","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:03:31.572","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:03:32.575","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:03:33.579","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:03:34.584","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:03:35.588","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"FATAL","timestamp":"2019-06-21 17:03:36.590","file":"web/main.go:50","msg":"The router has no response, or it might took too long to start up.","data":{"error":"Cannot connect to the router.","trace":"goroutine 39 [running]:\nvendor/github.com/lexkong/log/lager.(*logger).logs(0xc0001be180, 0xc0001f22a0, 0x2, 0x2, 0x4, 0x485b829, 0x42, 0x4956480, 0xc0001a53c0, 0x0, ...)\n\t/Users/zhaoshanshan/Documents/work/go/src/vendor/github.com/lexkong/log/lager/logger.go:135 +0x8de\nvendor/github.com/lexkong/log/lager.(*logger).log(0xc0001be180, 0x4, 0x485b829, 0x42, 0x4956480, 0xc0001a53c0, 0x0, 0x0, 0x0)\n\t/Users/zhaoshanshan/Documents/work/go/src/vendor/github.com/lexkong/log/lager/logger.go:123 +0xd9\nvendor/github.com/lexkong/log/lager.(*logger).Fatal(0xc0001be180, 0x485b829, 0x42, 0x4956480, 0xc0001a53c0, 0x0, 0x0, 0x0)\n\t/Users/zhaoshanshan/Documents/work/go/src/vendor/github.com/lexkong/log/lager/logger.go:197 +0x83\nvendor/github.com/lexkong/log.Fatal(...)\n\t/Users/zhaoshanshan/Documents/work/go/src/vendor/github.com/lexkong/log/st_lager.go:162\nmain.main.func1()\n\t/Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/main.go:50 +0xc6\ncreated by main.main\n\t/Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/main.go:48 +0x1d9\n"}}
+{"level":"INFO","timestamp":"2019-06-21 17:04:01.394","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-21 17:04:01.395","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-21 17:04:01.397","file":"web/main.go:54","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-21 17:04:01.399","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:04:02.402","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:04:03.405","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:04:04.411","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:04:05.418","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:04:06.425","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:04:07.430","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:04:08.434","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:04:09.440","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:04:10.446","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"FATAL","timestamp":"2019-06-21 17:04:11.446","file":"web/main.go:50","msg":"The router has no response, or it might took too long to start up.","data":{"error":"Cannot connect to the router.","trace":"goroutine 53 [running]:\nvendor/github.com/lexkong/log/lager.(*logger).logs(0xc00035c420, 0xc0002bc100, 0x2, 0x2, 0x4, 0x485b829, 0x42, 0x4956480, 0xc00043c140, 0x0, ...)\n\t/Users/zhaoshanshan/Documents/work/go/src/vendor/github.com/lexkong/log/lager/logger.go:135 +0x8de\nvendor/github.com/lexkong/log/lager.(*logger).log(0xc00035c420, 0x4, 0x485b829, 0x42, 0x4956480, 0xc00043c140, 0x0, 0x0, 0x0)\n\t/Users/zhaoshanshan/Documents/work/go/src/vendor/github.com/lexkong/log/lager/logger.go:123 +0xd9\nvendor/github.com/lexkong/log/lager.(*logger).Fatal(0xc00035c420, 0x485b829, 0x42, 0x4956480, 0xc00043c140, 0x0, 0x0, 0x0)\n\t/Users/zhaoshanshan/Documents/work/go/src/vendor/github.com/lexkong/log/lager/logger.go:197 +0x83\nvendor/github.com/lexkong/log.Fatal(...)\n\t/Users/zhaoshanshan/Documents/work/go/src/vendor/github.com/lexkong/log/st_lager.go:162\nmain.main.func1()\n\t/Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/main.go:50 +0xc6\ncreated by main.main\n\t/Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/main.go:48 +0x1d9\n"}}
+{"level":"INFO","timestamp":"2019-06-21 17:05:12.994","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-21 17:05:12.996","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-21 17:05:12.997","file":"web/main.go:54","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-21 17:05:13.000","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:05:14.005","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:05:15.010","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:05:16.014","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:05:17.026","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:05:18.028","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:05:19.035","file":"web/main.go:64","msg":"Waiting for the router, retry in i second."}
+{"level":"INFO","timestamp":"2019-06-21 17:05:25.503","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-21 17:05:25.505","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-21 17:05:25.511","file":"web/main.go:54","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-21 17:05:25.513","file":"web/main.go:52","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-06-21 17:05:28.666","file":"middleware/logging.go:75","msg":"4.45ms-13s | 127.0.0.1-12s | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-06-21 17:10:21.063","file":"user/update.go:16","msg":"update function called.","data":{"X-Request-Id":"c165ae6c-3a5c-4ff3-ad9b-48cb0d2d0db2"}}
+{"level":"INFO","timestamp":"2019-06-21 17:10:21.063","file":"user/update.go:20","msg":"更新的用户id是:3"}
+{"level":"INFO","timestamp":"2019-06-21 17:10:21.125","file":"middleware/logging.go:75","msg":"62.594ms-13s | 127.0.0.1-12s | PUT /v1/user/3 | {code: 20002, message: Database error.}"}
+{"level":"INFO","timestamp":"2019-06-21 17:14:55.895","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-21 17:14:55.897","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-21 17:14:55.906","file":"web/main.go:54","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-21 17:14:55.907","file":"web/main.go:52","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-06-21 17:14:59.812","file":"user/update.go:16","msg":"update function called.","data":{"X-Request-Id":"1c1637b3-1b45-4a4a-a139-db86b82c268d"}}
+{"level":"INFO","timestamp":"2019-06-21 17:14:59.812","file":"user/update.go:20","msg":"更新的用户id是:3"}
+{"level":"INFO","timestamp":"2019-06-21 17:14:59.872","file":"middleware/logging.go:75","msg":"59.429ms-13s | 127.0.0.1-12s | PUT /v1/user/3 | {code: 20002, message: Database error.}"}
+{"level":"INFO","timestamp":"2019-06-21 17:26:39.736","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-21 17:26:39.986","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-22 11:06:23.330","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-22 11:06:23.400","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-22 11:06:23.405","file":"web/main.go:54","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-22 11:06:23.406","file":"web/main.go:52","msg":"The router has been deployed successfully."}
+{"level":"ERROR","timestamp":"2019-06-22 11:07:56.575","file":"middleware/logging.go:67","msg":"response body can not unmarshal to mode.Response struct, body: ``","data":{"error":"unexpected end of JSON input"}}
+{"level":"INFO","timestamp":"2019-06-22 11:07:56.575","file":"middleware/logging.go:75","msg":"72µs-13s | 127.0.0.1-12s | GET /login | {code: 10001, message: unexpected end of JSON input}"}
+{"level":"INFO","timestamp":"2019-06-22 11:08:27.135","file":"middleware/logging.go:75","msg":"70.993ms-13s | 127.0.0.1-12s | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-06-22 11:09:43.143","file":"middleware/logging.go:75","msg":"8.493ms-13s | 127.0.0.1-12s | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-06-22 11:09:54.631","file":"middleware/logging.go:75","msg":"4.606ms-13s | 127.0.0.1-12s | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-06-22 11:09:55.730","file":"middleware/logging.go:75","msg":"2.904ms-13s | 127.0.0.1-12s | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-06-22 11:10:27.740","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id":"55ec6574-a17b-484e-b698-4411484ea848"}}
+{"level":"INFO","timestamp":"2019-06-22 11:10:27.806","file":"middleware/logging.go:75","msg":"65.909ms-13s | 127.0.0.1-12s | POST /v1/user | {code: 20002, message: Database error.}"}
+{"level":"INFO","timestamp":"2019-06-22 11:10:39.064","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id":"7731b7a6-276c-4220-9433-b29c39c96e8f"}}
+{"level":"INFO","timestamp":"2019-06-22 11:10:39.128","file":"middleware/logging.go:75","msg":"63.884ms-13s | 127.0.0.1-12s | POST /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-06-22 11:14:19.639","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-22 11:14:19.640","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-22 11:14:19.647","file":"web/main.go:54","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-22 11:14:19.648","file":"web/main.go:52","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-06-22 11:14:24.665","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id":"1ff007f7-c04f-4752-8da4-53f7a7453191"}}
+{"level":"INFO","timestamp":"2019-06-22 11:14:24.725","file":"middleware/logging.go:75","msg":"59.841ms-13s | 127.0.0.1-12s | POST /v1/user | {code: 20002, message: Database error.}"}
+{"level":"INFO","timestamp":"2019-06-22 11:14:35.378","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id":"dc1cbf6a-27db-4c41-966a-08706545e28d"}}
+{"level":"INFO","timestamp":"2019-06-22 11:14:35.449","file":"middleware/logging.go:75","msg":"71.027ms-13s | 127.0.0.1-12s | POST /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-06-22 11:16:00.443","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-22 11:16:00.445","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-22 11:16:00.447","file":"web/main.go:54","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-22 11:16:00.448","file":"web/main.go:52","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-06-22 11:16:05.595","file":"middleware/logging.go:75","msg":"213µs-13s | 127.0.0.1-12s | POST /v1/user | {code: 20103, message: The token was invalid.}"}
+{"level":"INFO","timestamp":"2019-06-22 11:16:13.904","file":"middleware/logging.go:75","msg":"62.273ms-13s | 127.0.0.1-12s | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-06-22 11:17:02.724","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id":"b47497b5-e042-4dd2-b496-cf67342cd650"}}
+{"level":"INFO","timestamp":"2019-06-22 11:17:02.791","file":"middleware/logging.go:75","msg":"67.181ms-13s | 127.0.0.1-12s | POST /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2019-06-22 11:27:17.454","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-22 11:27:44.537","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-22 11:27:46.988","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-22 11:27:49.991","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-22 11:27:53.633","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-22 11:27:56.222","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-22 11:27:59.674","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-22 11:28:05.968","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-22 11:28:12.761","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-22 11:28:25.760","file":"config/config.go:67","msg":"Config file changed: /Users/zhaoshanshan/Documents/work/go/src/github.com/zhanfangzxc/web/conf/config.yaml"}
+{"level":"INFO","timestamp":"2019-06-22 11:34:44.851","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-22 11:34:44.853","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-22 11:34:44.855","file":"web/main.go:64","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-22 11:34:44.855","file":"web/main.go:60","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2019-06-22 11:34:44.855","file":"web/main.go:65","msg":"listen tcp :8080: bind: address already in use"}
+{"level":"INFO","timestamp":"2019-06-22 11:35:08.787","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-22 11:35:08.789","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-22 11:35:08.791","file":"web/main.go:64","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-22 11:35:08.791","file":"web/main.go:60","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2019-06-22 11:35:08.791","file":"web/main.go:65","msg":"listen tcp :8080: bind: address already in use"}
+{"level":"INFO","timestamp":"2019-06-22 11:35:10.251","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-22 11:35:10.253","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-22 11:35:10.254","file":"web/main.go:64","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-22 11:35:10.254","file":"web/main.go:60","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2019-06-22 11:35:10.254","file":"web/main.go:65","msg":"listen tcp :8080: bind: address already in use"}
+{"level":"INFO","timestamp":"2019-06-22 11:36:15.636","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-22 11:36:15.638","file":"model/init.go:28","msg":"数据库连接参数root:zhaoshanshan0518@tcp(127.0.0.1:3306)/api_server?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2019-06-22 11:36:15.640","file":"web/main.go:64","msg":"Start to listening the incoming request on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-22 11:36:15.640","file":"web/main.go:60","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2019-06-22 11:36:15.641","file":"web/main.go:53","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2019-06-22 11:36:45.635","file":"middleware/logging.go:75","msg":"4.359ms-13s | 127.0.0.1-12s | GET /v1/user | {code: 0, message: OK}"}
